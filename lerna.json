@@ -5,7 +5,7 @@
   "npmClientArgs": [
     "--strict-ssl=false",
     "--always-auth=true",
-    "--_auth=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"
+    "--_auth=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"
   ],
   "version": "independent",
   "command": {
