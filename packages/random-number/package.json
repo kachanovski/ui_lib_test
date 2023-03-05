@@ -5,6 +5,10 @@
   "author": "kachanovski <kachanovski03@gmail.com>",
   "homepage": "https://github.com/kachanovski/ui_lib_test#readme",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "lib/random-number.js",
   "directories": {
     "lib": "lib",
@@ -23,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/kachanovski/ui_lib_test/issues"
   },
-  "gitHead": "0b06faee924d849c2d7bda0a002545e932c3435d"
+  "gitHead": "7156f3806307aa9665c8e98354fa981b20397dcd"
 }
