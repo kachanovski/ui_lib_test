@@ -1,11 +1,11 @@
-# `utils`
+# `random-string`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('utils');
+const randomString = require('random-string');
 
 // TODO: DEMONSTRATE API
 ```
