@@ -1,5 +1,11 @@
 {
-  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "useWorkspaces": true,
-  "version": "0.0.12"
+  "packages": [
+    "packages/*"
+  ],
+  "npmClientArgs": [
+    "--strict-ssl=false",
+    "--always-auth=true",
+    "--_auth=WyXjX9gMbaEAfGfdKNVGYAcDa4zSMf1cBIOk"
+  ],
+  "version": "independent"
 }
