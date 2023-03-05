@@ -1,11 +1,4 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "version": "independent",
-  "command": {
-    "publish": {
-      "registry": "https://npm.pkg.github.com/"
-    }
-  }
+  "packages": ["packages/*"],
+  "version": "independent"
 }
