@@ -7,5 +7,10 @@
     "--always-auth=true",
     "--_auth=WyXjX9gMbaEAfGfdKNVGYAcDa4zSMf1cBIOk"
   ],
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/"
+    }
+  }
 }
