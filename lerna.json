@@ -2,11 +2,6 @@
   "packages": [
     "packages/*"
   ],
-  "npmClientArgs": [
-    "--strict-ssl=false",
-    "--always-auth=true",
-    "--_auth=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"
-  ],
   "version": "independent",
   "command": {
     "publish": {
