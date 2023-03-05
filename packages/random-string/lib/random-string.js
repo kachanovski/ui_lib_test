@@ -9,6 +9,7 @@ function randomString(len = 5) {
           charactersSet.charAt(Math.floor(Math.random() * charactersSet.length))
       )
       .join("");
+    console.log("123")
   return str;
 }
 
